@@ -54,8 +54,6 @@ python3 src.py encrypt secret.txt --output_file secret.encrypted
 python3 src.py decrypt secret.encrypted --output_file secret_decrypted.txt
 ```
 
-
-
 ```bash
 python3 src.py encrypt secret.jpg --output_file secret2.encrypted
 python3 src.py decrypt secret.encrypted --output_file secret_decrypted2.jpg
